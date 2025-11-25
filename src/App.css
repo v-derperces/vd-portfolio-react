@@ -22,21 +22,21 @@
 
 @font-face {
     font-family: "SignikaNegative";
-    src: url("/public/assets/fonts/SignikaNegative-Regular.ttf") format("truetype");
+    src: url("/assets/fonts/SignikaNegative-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Lilita";
-    src: url("/public/assets/fonts/LilitaOne-Regular.ttf") format("truetype");
+    src: url("/assets/fonts/LilitaOne-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Racing";
-    src: url("/public/assets/fonts/RacingSansOne-Regular.ttf") format("truetype");
+    src: url("/assets/fonts/RacingSansOne-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -161,7 +161,7 @@ nav.scrolled {
 
 .hero-img {
     background-image:
-        url("/public/assets/images/hero-img.png");
+        url("/assets/images/hero-img.png");
     background-position-x: center;
     background-position-y: bottom;
     background-repeat: no-repeat;

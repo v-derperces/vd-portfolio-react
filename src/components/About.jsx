@@ -15,7 +15,7 @@ function About() {
                     </p>
                 </div>
                 <div className="text-center">
-                    <img src="/public/assets/images/work.svg" alt="Illustration of a woman coding"/>
+                    <img src="/assets/images/work.svg" alt="Illustration of a woman coding"/>
                 </div>
             </div>
             <p className="fs-5 mb-4">

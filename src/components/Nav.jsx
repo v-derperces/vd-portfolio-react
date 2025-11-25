@@ -1,9 +1,11 @@
+import React from 'react';
+
 function Nav() {
     return (
         <nav id="navbar"  className="navbar navbar-expand-md fixed-top">
             <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                    <img className="logo" src="/public/assets/images/logo.svg" alt="Logo img"/>
+                    <img className="logo" src="/assets/images/logo.svg" alt="Logo img"/>
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="offcanvas"
                         data-bs-target="#offcanvasPortfolio" aria-controls="offcanvasPortfolio"

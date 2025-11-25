@@ -9,19 +9,19 @@ function Contact(){
             <div className="contact-links d-flex flex-column flex-md-row mt-5 gap-3 gap-md-5 justify-content-center">
                 <a href="mailto:v.derperces-dev@outlook.com"
                    className="contact-item d-flex align-items-center justify-content-center gap-2 text-muted">
-                    <img src="public/assets/images/email.svg" alt="Email" className="social-icon" />
+                    <img src="/assets/images/email.svg" alt="Email" className="social-icon" />
                     Email
                 </a>
 
                 <a href="https://www.linkedin.com/in/viviane-d" target="_blank"
                    className="contact-item d-flex align-items-center justify-content-center gap-2 text-muted">
-                    <img src="public/assets/images/LI-In-Bug.png" alt="LinkedIn" className="social-icon" />
+                    <img src="/assets/images/LI-In-Bug.png" alt="LinkedIn" className="social-icon" />
                     LinkedIn
                 </a>
 
                 <a href="https://github.com/v-derperces" target="_blank"
                    className="contact-item d-flex align-items-center justify-content-center gap-2 text-muted">
-                    <img src="/public/assets/images/github-mark.svg" alt="GitHub logo" className="social-icon" />
+                    <img src="/assets/images/github-mark.svg" alt="GitHub logo" className="social-icon" />
                     GitHub
                 </a>
             </div>

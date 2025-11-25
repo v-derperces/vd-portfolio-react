@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonTag from "./ButtonTag.jsx";
+import ButtonTag from "./ButtonTag";
 
 function Card({data}) {
     return (

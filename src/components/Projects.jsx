@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Card from "./Card.jsx";
+import Card from "./Card";
 
 function Projects() {
 
@@ -23,8 +23,8 @@ function Projects() {
             name: "Ecommerce API",
             description: "A SpringBoot API that manages the core functionalities of an e-commerce application.  \n" +
                 "It allows managing users, their roles, products, categories and orders",
-            imageSrc: "/assets/images/devices_640.jpg",
-            link: "",
+            imageSrc: "/assets/images/api-ecommerce2.png",
+            link: "https://github.com/v-derperces/springboot-api-ecommerce.git",
             stack: ["Springboot", "Java", "Mysql", "Maven"]
         },
         {

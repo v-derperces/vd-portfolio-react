@@ -1,13 +1,13 @@
 import './App.css'
 import Nav from './components/Nav'
 import Hero from './components/Hero'
-import About from "./components/About.jsx";
-import Projects from "./components/Projects.jsx";
-import Section from "./components/Section.jsx";
-import Contact from "./components/Contact.jsx";
-import useNavScroll from "./hooks/UseNavScroll.jsx";
-import useActiveLink from "./hooks/useActiveLink.jsx";
-import Footer from "./components/Footer.jsx";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Section from "./components/Section";
+import Contact from "./components/Contact";
+import useNavScroll from "./hooks/UseNavScroll";
+import useActiveLink from "./hooks/useActiveLink";
+import Footer from "./components/Footer";
 
 function App() {
     useNavScroll();
